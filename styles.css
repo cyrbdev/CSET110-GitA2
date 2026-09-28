@@ -1,0 +1,18 @@
+#a{
+    border: 1px solid black;
+    padding: 15px;
+}
+#b{
+    border-bottom: 2px solid red;
+    padding: 15px;
+}
+#c{
+    border-radius: 10px;
+    border: 1px solid gray;
+    padding: 15px;
+}
+#d{
+    border-left: 5px solid rgb(99, 99, 255);
+    background-color:  rgb(170, 252, 255);
+    padding: 15px;
+}
